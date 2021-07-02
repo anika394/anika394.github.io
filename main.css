@@ -2,7 +2,7 @@ h1 {
     color: #000000;
     font-family: 'Arvo', sans-serif;
     font-weight: 100;
-    font-size: 570%;
+    font-size: 400%;
     letter-spacing: 2px;
     text-align: left;
     text-overflow: inherit;
@@ -10,7 +10,7 @@ h1 {
     margin-left: 9%;
     z-index: 20;
     font-weight: bold;
-    margin-right: 500px;
+    margin-right: 20%;
   }
   h2 {
     color: #000000;
