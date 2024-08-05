@@ -45,6 +45,7 @@ body {
     justify-content: center;
     overflow: scroll;
     background-size: 100%;
+    margin: 10%;
 }
 p {
   color: #000000;
