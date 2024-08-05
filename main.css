@@ -1,4 +1,4 @@
-h1 {
+h3 {
     color: #000000;
     font-family: 'Arvo', sans-serif;
     font-weight: 100;
@@ -24,7 +24,7 @@ h1 {
     margin-left: 9%;
     z-index: 20;
   }
-  h3 {
+  h1 {
     color: purple;
     font-family: 'Arvo', sans-serif;
     font-weight: 100;
